@@ -1,0 +1,13 @@
+{
+  "name": "Ahomu Web App",
+  "short_name": "ahomu-web",
+  "icons": [{
+    "src": "/images/icon.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }],
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fcfcfc",
+  "theme_color": "#7be5f8"
+}
